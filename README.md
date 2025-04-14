@@ -42,7 +42,7 @@ You'll need to complete the TODOs in two main files:
 ##  Clone this Project
 To download all the code and files from this project, simply run:
 ```bash
-git clone https://github.com/
+git clone git@github.com:mehdibenz0/image-recognition.git
 ```
 This will create a new folder with all the files you need — including:
  - Python scripts to collect and preprocess images
